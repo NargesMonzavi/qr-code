@@ -19,6 +19,9 @@ The designs were created to the following widths:
 ### Body Copy
 
 - Font size (paragraph): 15px
+- Font size (title): 20px
+
+- Box shadow = 0 12px 50px rgba(0, 0, 0, 0.1)
 
 ### Font
 
